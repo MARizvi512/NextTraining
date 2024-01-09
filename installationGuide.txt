@@ -1,0 +1,3 @@
+for installation command : npx create-next-app@latest
+
+for running command : npm run dev 
